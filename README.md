@@ -78,6 +78,9 @@ For different input combinations generate the timing diagram.
 `
 `
 
+`
+
+`
 
 
 
