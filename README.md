@@ -63,6 +63,21 @@ Create nodes for inputs and outputs to generate the timing diagram.
 
 For different input combinations generate the timing diagram.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Program:**
 
 Full adder
