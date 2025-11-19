@@ -80,6 +80,7 @@ For different input combinations generate the timing diagram.
 
 **Program:**
 
+
 Full adder
 
 module fulladd(a,b,c,sum,carry);
